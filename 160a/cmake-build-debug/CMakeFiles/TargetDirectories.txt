@@ -1,0 +1,3 @@
+D:/c programs/160a/cmake-build-debug/CMakeFiles/160a.dir
+D:/c programs/160a/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c programs/160a/cmake-build-debug/CMakeFiles/rebuild_cache.dir

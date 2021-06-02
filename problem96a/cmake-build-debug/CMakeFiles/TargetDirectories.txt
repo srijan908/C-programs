@@ -1,0 +1,3 @@
+D:/c programs/problem96a/cmake-build-debug/CMakeFiles/problem96a.dir
+D:/c programs/problem96a/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c programs/problem96a/cmake-build-debug/CMakeFiles/rebuild_cache.dir

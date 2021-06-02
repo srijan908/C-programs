@@ -1,0 +1,3 @@
+D:/c programs/problem50a/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c programs/problem50a/cmake-build-debug/CMakeFiles/problem50a.dir
+D:/c programs/problem50a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
